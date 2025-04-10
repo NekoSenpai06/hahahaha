@@ -1,0 +1,33 @@
+* {
+    font-family: arial;
+}
+
+i {
+    font-family: monospace;
+}
+
+#top {
+    padding: 10px 10px;
+    background-color: #bfffff;
+}
+
+#body {
+    padding: 10px 10xp;
+    background-color: #95ccff;
+}
+
+#bottom {
+    padding: 10px 10xp;
+    background-color: #6ae0ff;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 100px;
+}
+
+#picture {
+    text-align: center;
+}
