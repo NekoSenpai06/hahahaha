@@ -1,4 +1,4 @@
-alert("!! YOU ARE NOT ALLOWED TO ENTER THIS PAGE !!");
+alert("get out");
 function run() {
     var user = document.getElementById("user").value;
     var pass = document.getElementById("pass").value;
